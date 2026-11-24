@@ -1,0 +1,6 @@
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/CMakeFiles/TEST.dir
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/jiake/Desktop/BRICKS_codes/TEST/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
